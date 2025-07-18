@@ -12,7 +12,8 @@ Supervised by Prof Zhou Kun and Dr. Zhu Chenyang.
 
 This dataset includes the processing-microstructure-mechanical property (PMP) features for the laser powder bed fusion additive-manufactured metal materials. The objective of this dataset is to provide quantitative data on the microstructural features and mechanical properties from a range of process parameter combinations. The dataset has been used to investigate PMP relationships with machine learning. 
 
-This dataset includes data from 127 literature resources as listed in the reference list: <a href="https://github.com/JingwenGao/MetalLPBF_PMP/Reference_list.txt" target="_blank">Link</a>
+This dataset includes data from 127 literature resources as listed in the reference list: 📄[link](Reference_list.txt)
+
 
 <br />
 
